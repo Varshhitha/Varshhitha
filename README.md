@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Varshitha 👋
 
-<!--
-**Varshhitha/Varshhitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Java | Web Development
 
-Here are some ideas to get you started:
+I'm a Computer Science student currently building my skills in
+Java and web development through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy the visual side of building applications and I'm currently
+learning how to turn my ideas into better UI and frontend experiences.
+
+I'm also working on improving my problem-solving and programming
+skills for campus placements.
+
+### Currently
+
+- ☕ Strengthening my Java skills
+- 🌐 Learning and building with web technologies
+- 🎨 Learning UI design and frontend development
+- 🧩 Practicing problem solving and DSA
+- 💼 Looking for opportunities to start my career in software development
